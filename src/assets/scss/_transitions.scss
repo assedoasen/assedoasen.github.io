@@ -1,0 +1,12 @@
+.slide-fade-fullscreen-enter-active {
+  transition: all .3s ease;
+}
+
+.slide-fade-fullscreen-leave-active {
+  transition: all .3s ease;
+}
+
+.slide-fade-fullscreen-enter, .slide-fade-fullscreen-leave-to {
+  transform: translateY(100%);
+  opacity: 0;
+}

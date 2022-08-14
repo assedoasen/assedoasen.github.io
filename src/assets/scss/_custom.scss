@@ -1,0 +1,17 @@
+// Here you can add other styles
+.app {
+  height: 100vh;
+  display: flex;
+}
+
+.toast {
+  opacity: 1;
+  margin-bottom: 0!important;
+  box-shadow: none;
+  border: none;
+  background: transparent;
+  div {
+    margin-bottom: 0!important;
+    border-radius: 0.25rem;
+  }
+}
